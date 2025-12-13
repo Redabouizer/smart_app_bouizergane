@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "370984242246",
+    "firebase_url": "https://smartapp-1ea0b-default-rtdb.firebaseio.com",
+    "project_id": "smartapp-1ea0b",
+    "storage_bucket": "smartapp-1ea0b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370984242246:android:0843cf7a35a3c221eb0e47",
+        "android_client_info": {
+          "package_name": "com.bouizergane.smart_app_bouizergane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370984242246-3h3fpftli7n25dchf5od3ad4567pf6ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVf95JZvo_zRGaHHJtaR0nnpotBJH77U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370984242246-3h3fpftli7n25dchf5od3ad4567pf6ha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
